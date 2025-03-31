@@ -22,4 +22,4 @@ I am a second-year Computer Science student at Warsaw University of Technology l
 - The rest in repository below ↓
 
 ## Contact
-Reach me at [Linkedin](www.linkedin.com/in/maciej-borkowski-047731355)
+Reach me at [Linkedin](https://www.linkedin.com/in/maciej-borkowski-047731355/)
