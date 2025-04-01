@@ -19,7 +19,7 @@ I am a second-year Computer Science student at Warsaw University of Technology l
 
 ## Projects
 - [LeetCode](https://leetcode.com/u/sieam/) - ~200 problems solved,
-- The rest in repository below ↓
+- The rest on my profile ↓
 
 ## Contact
 Reach me at [Linkedin](https://www.linkedin.com/in/maciej-borkowski-047731355/)
