@@ -1,5 +1,5 @@
 ## About me
-I am a second-year Computer Science student at Warsaw University of Technology looking for my first internship. Passionate about Artificial Intelligence, Software Engineering, and Algorithms. Beyond coding, I enjoy music, sports, and esports. 
+I am a third-year Computer Science student at Warsaw University of Technology looking for my first internship. Currently on Erasmus in University of Valencia. Passionate about Artificial Intelligence, Software Engineering, and Algorithms. Beyond coding, I enjoy music, sports, and esports. 
 
 ## Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
@@ -17,8 +17,12 @@ I am a second-year Computer Science student at Warsaw University of Technology l
 ![Microsoft Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Oracle SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 
+## Certificates
+Cisco Certified Network Associate (CCNA) – In Progress
+- Expected Completion: January 2026
+
 ## Projects
-- [LeetCode](https://leetcode.com/u/sieam/) - ~200 problems solved,
+- [LeetCode](https://leetcode.com/u/sieam/) - ~240 problems solved in C++,
 - The rest on my profile ↓
 
 ## Contact
